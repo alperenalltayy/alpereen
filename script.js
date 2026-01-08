@@ -7,13 +7,12 @@ import { getFirestore, collection, addDoc, onSnapshot, query, orderBy } from "ht
 // 1. BURAYI BİRAZDAN DOLDURACAĞIZ (Firebase Ayarları)
 // -----------------------------------------------------------
 const firebaseConfig = {
-  apiKey: "AIzaSyDP0FFbZ2GtJEFVlDqkFu7yYzSKbhY35CI",
-  authDomain: "zureani-b9b6d.firebaseapp.com",
-  projectId: "zureani-b9b6d",
-  storageBucket: "zureani-b9b6d.firebasestorage.app",
-  messagingSenderId: "707624209414",
-  appId: "1:707624209414:web:944088ab6e6e7c71420787",
-  measurementId: "G-LSX054G5TT"
+  apiKey: "AIzaSyBUVhHAY2ZDcKwWnqatOtsGs-sYBmdFk38",
+  authDomain: "zureani2.firebaseapp.com",
+  projectId: "zureani2",
+  storageBucket: "zureani2.firebasestorage.app",
+  messagingSenderId: "325226656012",
+  appId: "1:325226656012:web:f0c6c05f8d7ffc12b79929"
 };
 
 // Firebase'i Başlat
